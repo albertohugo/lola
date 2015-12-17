@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rowTextView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textSize="26sp"
+    android:shadowRadius="1"
+    android:shadowColor="#000000"
+    android:shadowDx="5"
+    android:shadowDy="0"
+    android:textColor="@color/white"
+    android:gravity="center">
+</TextView>  

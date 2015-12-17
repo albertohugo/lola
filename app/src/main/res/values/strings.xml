@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lola</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="blue">#007FFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sand">#FEF479</color>
+
+</resources>
